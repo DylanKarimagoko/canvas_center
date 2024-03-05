@@ -188,7 +188,7 @@ a:focus {
 ====================================*/
 
 .header-top{
-  background: #000000;
+  background: #2663b2;
 }
 .header-top ul.header-contact {
     text-align: right;
@@ -241,7 +241,7 @@ a:focus {
   width: 100%;
   position: absolute;
     z-index: 99;
-    background-color: rgba(255, 255, 255, 0.10);
+    background-color: #3d518c37;
     border-bottom:1px solid rgba(255, 255, 255, 0.30); 
   }
   .account_login-area li:first-child{
