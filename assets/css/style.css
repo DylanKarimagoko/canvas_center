@@ -188,7 +188,7 @@ a:focus {
 ====================================*/
 
 .header-top{
-  background: #142440;
+  background: #000000;
 }
 .header-top ul.header-contact {
     text-align: right;
@@ -369,7 +369,7 @@ a:focus {
 
 .main-menu nav ul li:hover>a,
 .main-menu nav ul li.active>a {
-    color: #34ccff;
+    color: #5d34ff;
 }
 
 .main-menu .submenu {
@@ -1811,14 +1811,27 @@ mobile menu
     padding-right: 60px;
 }
 .section-area.section-style-2 .section-content span {
-    font-size: 16px;
+    font-size: 15px;
     color: #777;
 }
-.section-area.section-style-2 .section-icon i.fi {
+
+.section-area.section-style-2 .section-icon img{
+  height: 90px;
+  width: 90px;
+  background-color: rgb(254, 0, 0);
+  border-radius: 50%;
+  line-height: 75px;
+  text-align: center;
+  margin-top: 50px;
+  margin-right: 20px;
+  color:#fff;
+  border:2px solid #17191a;
+}
+/*.section-area.section-style-2 .section-icon i.fi {
     padding: 0;
     width: 90px;
     height: 90px;
-    background: #34ccff;
+    background: #000000;
     border-radius: 50%;
     line-height: 75px;
     text-align: center;
@@ -1826,7 +1839,7 @@ mobile menu
     margin-right: 20px;
     color:#fff;
     border:6px solid #d4f1fa;
-}
+}*/
 .about-area.about-style-2{
   background: url(../images/about/2.jpg) no-repeat center top / cover;
 
