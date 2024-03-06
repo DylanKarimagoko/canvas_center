@@ -188,7 +188,7 @@ a:focus {
 ====================================*/
 
 .header-top{
-  background: #2663b2;
+  background: #0658c5;
 }
 .header-top ul.header-contact {
     text-align: right;
@@ -241,7 +241,7 @@ a:focus {
   width: 100%;
   position: absolute;
     z-index: 99;
-    background-color: #3d518c37;
+    background-color: #8197d580;
     border-bottom:1px solid rgba(255, 255, 255, 0.30); 
   }
   .account_login-area li:first-child{
@@ -369,7 +369,11 @@ a:focus {
 
 .main-menu nav ul li:hover>a,
 .main-menu nav ul li.active>a {
-    color: #5d34ff;
+    color: #ffffff;
+}
+
+.main-menu nav ul li a {
+  color: rgb(255, 255, 255);
 }
 
 .main-menu .submenu {
@@ -413,7 +417,7 @@ display: none;
     left: 0;
     top: 0;
     width: 100%;
-    background:#142440;
+    background:#5898f1;
     z-index: 1200;
     box-shadow: 0px 1px 5px rgba(0, 0, 0, .1);
     -moz-box-shadow: 0px 1px 5px rgba(0, 0, 0, .1);
@@ -502,7 +506,7 @@ mobile menu
   text-align:right;
 }
 .btn-style a {
-    background-color: #34ccff;
+    background-color: #5898f1;
     font-size: 15px;
     font-weight: 600;
     color: #fff;
@@ -1130,7 +1134,7 @@ mobile menu
     background: rgba(20,36,64,.8);
 }
 .counter-content {
-    background: #34ccff;
+    background: #5898f1;
     padding: 44px 70px 94px;
     padding-right: 80px;
     margin-bottom: -70px;
@@ -1690,7 +1694,7 @@ mobile menu
 1.6 footer-area start
 =========================================*/
 .footer-area{
-  background: #142440;
+  background: #5898f1;
 }
 .footer-top{
   padding: 60px 0;
