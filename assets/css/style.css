@@ -3251,6 +3251,16 @@ mobile menu
   background: #34ccff;
   border-radius: 50%;
 }
+
+.gallery {
+  display: flex; 
+  flex-wrap: wrap; 
+  justify-content: space-between; 
+  margin: 0 auto; 
+  width: 60%; 
+}
+
+
 /*=======================
 9.0 Freight-area
 =========================*/
